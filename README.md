@@ -54,7 +54,7 @@ O frontend permite ao usuário interagir com a API de forma visual e intuitiva:
 - Deletar produto: remove produto pelo ID.
 
 Imagem do frontend: 
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## Como Executar o Projeto
 
