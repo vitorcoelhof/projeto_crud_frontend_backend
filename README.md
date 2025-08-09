@@ -2,6 +2,8 @@
 
 Este projeto é um sistema CRUD (Create, Read, Update, Delete) completo para gerenciamento de produtos, com backend em FastAPI e frontend em Streamlit. O objetivo é demonstrar a integração entre uma API moderna e uma interface web simples e funcional.
 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6abdd234-b6d9-4466-8e0e-80ea301423f3" />
+
 ## Estrutura do Projeto
 
 ```
@@ -52,10 +54,6 @@ O frontend permite ao usuário interagir com a API de forma visual e intuitiva:
 - Buscar produto: busca por ID e exibe detalhes.
 - Atualizar produto: formulário para atualizar qualquer campo de um produto existente.
 - Deletar produto: remove produto pelo ID.
-
-Imagem do frontend: 
-<img width="868" height="456" alt="image" src="https://github.com/user-attachments/assets/6abdd234-b6d9-4466-8e0e-80ea301423f3" />
-
 
 
 ## Como Executar o Projeto
