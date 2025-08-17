@@ -31,7 +31,7 @@ projeto_crud/
 
 O backend é responsável por expor uma API REST para manipulação dos produtos. Principais arquivos:
 
-- **main.py**: Inicializa a aplicação FastAPI e inclui as rotas.
+- **main.py**: Inicializa a aplicação FastAPI e inclui rotas.
 - **models.py**: Define o modelo do produto (campos: id, name, description, price, categoria, email_fornecedor, created_at).
 - **schemas.py**: Define os schemas de entrada e saída, com validação de campos e categorias.
 - **crud.py**: Funções para criar, buscar, atualizar e deletar produtos no banco de dados.
